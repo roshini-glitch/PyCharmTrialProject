@@ -1,0 +1,12 @@
+R001,Angel Eyes,Romantic,128,Available
+R002,Hearts on Fire,Romantic,158,Available
+R003,Purple Rush,Romantic,288,Available
+B001,Sweet Nothings,Birthday,98,Available
+B002,Summer Surprise,Birthday,158,Available
+GO001,Savannah,Grand Opening,158,Available
+GO002,The Tropics,Grand Opening,168,Available
+C001,Tranquility,Condolence,151,Available
+C002,Memories,Condolence,151,Available
+A001,Garden of Hearts,Anniversary,128,Available
+A002,Treasured Blooms,Anniversary,188,Available
+A003,Ray of Light,Anniversary,288,Available
