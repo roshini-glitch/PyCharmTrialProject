@@ -1,0 +1,4 @@
+ADD001,Chocolates,8.0,Available
+ADD002,Customized Handwritten card,12.0,Available
+ADD003,Soft Toy,16.0,Available
+ADD004,gogo,9.0,Available
